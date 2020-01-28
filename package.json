@@ -1,0 +1,19 @@
+{
+	"name": "iter-prototype",
+	"version": "1.0.0",
+	"description": "iterator of prototypes",
+	"main": "iter-prototype.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://archive.voodoowarez.com/iter-prototype"
+	},
+	"keywords": [],
+	"author": "jauntywunderkind",
+	"license": "MIT",
+	"module": "iter-prototype.js",
+	"esm": true,
+	"type": "module"
+}
