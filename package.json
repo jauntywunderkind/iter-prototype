@@ -4,7 +4,7 @@
 	"description": "iterator of prototypes",
 	"main": "iter-prototype.js",
 	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1"
+		"test": "./.test/index.js"
 	},
 	"repository": {
 		"type": "git",
@@ -15,5 +15,8 @@
 	"license": "MIT",
 	"module": "iter-prototype.js",
 	"esm": true,
-	"type": "module"
+	"type": "module",
+	"devDependencies": {
+		"tape": "^4.13.0"
+	}
 }
